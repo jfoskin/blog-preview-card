@@ -16,7 +16,7 @@
 
 ## Overview
 
-This project is about displaying a QR code with information.
+This project is about displaying a blog post preview card with details of the blog before a user would click on it.
 
 ### Screenshot
 
