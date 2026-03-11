@@ -41,9 +41,9 @@ Approaching this project I confirmed how to place the elemnts in a grid. I use a
 
 ### What I learned
 
-Also using a CSS Grid video gave great insight on how to implement grid in CSS.
+Using a CSS Grid video gave great insight on how to implement grid in CSS.
 
 ### Useful resources
 
 - [Youtube](https://youtu.be/JYfiaSKeYhE?si=Cp4MqeviUqKNlQTa) - This help me remember how to place items in a grid
-- [W3schools CSS](https://www.w3schools.com/css/default.asp) - This is an amazing resource that help me remember the neccsary properties I wanted to use in my stylesheet.
+- [W3schools CSS](https://www.w3schools.com/css/default.asp) - This is an amazing resource that help me remember the necessary properties I wanted to use in my stylesheet.
